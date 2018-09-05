@@ -14,9 +14,9 @@ Simple REST API in GO language using Mongo DB.
 go get github.com/gorilla/mux gopkg.in/mgo.v2 github.com/BurntSushi/toml
 ```
 
-* [mux](github.com/gorilla/mux) - Request router and dispatcher for matching incoming requests to their respective handler
-* [mgo](gopkg.in/mgo.v2) - MongoDB driver
-* [toml](github.com/BurntSushi/toml) - Parse the configuration file (MongoDB server & credentials)
+* [mux](https://github.com/gorilla/mux) - Request router and dispatcher for matching incoming requests to their respective handler
+* [mgo](https://gopkg.in/mgo.v2) - MongoDB driver
+* [toml](https://github.com/BurntSushi/toml) - Parse the configuration file (MongoDB server & credentials)
 
 ### To get this repository and run
 
