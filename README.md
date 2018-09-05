@@ -21,6 +21,6 @@ go get github.com/gorilla/mux gopkg.in/mgo.v2 github.com/BurntSushi/toml
 ### To get this repository and run
 
  ```sh
-$ git clone git@github.com:nandakumar111/GORestAPI-MongoDB.git
+$ git clone https://github.com/nandakumar111/GORestAPI-MongoDB.git
 $ go run app.go
 ```
